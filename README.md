@@ -5,6 +5,14 @@ This project was developed as part of a **sustainability-focused case competitio
 
 Rather than building a heavy ML system, the focus was on **problem framing, decision intelligence, and stakeholder usability** — translating sustainability goals into **actionable insights** using an AI-powered prototype built in **Google AI Studio**.
 
+## Project Documentation
+- [Problem Statement](docs/01_problem_statement.md)
+- [Stakeholder Analysis](docs/02_stakeholder_analysis.md)
+- [Solution Architecture](docs/03_solution_architecture.md)
+- [Scoring Logic & Metrics](docs/04_scoring_and_metrics.md)
+- [Insights & Impact](docs/05_insights_and_impact.md)
+- [Limitations & Future Work](docs/06_limitations_and_future_work.md)
+
 ---
 
 ## Business Problem
