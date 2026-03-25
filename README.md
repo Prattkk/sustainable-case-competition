@@ -6,9 +6,8 @@
 
 ## 🔗 Project Links
 * **Live Dashboard:** [Gies Impact Command Center](https://agatafietko.github.io/sustainability-dashboard/)  
-    *(Deployed visualization tool built by teammate **Agata Fietko**)*
-* **AI Prototype:** [SDG Research Navigator (Google AI Studio)](https://aistudio.google.com/apps/drive/1X32F5D6MjYPmdbODCHqlfB8VLEVzwbeE)  
-    *(Interactive LLM-powered assistant for research discovery)*
+  
+
 
 ---
 
