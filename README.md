@@ -1,6 +1,6 @@
-# 🏆 Finalist | Sustainable Case Competition
+# 🥉 3rd Place | Sustainable Case Competition
 
-**Repo Description:** 🏆 Finalist | AI-powered decision support prototype for sustainability analytics and SDG-aligned research collaboration
+**Repo Description:** 🥉 3rd Place | AI-powered decision support prototype for sustainability analytics and SDG-aligned research collaboration
 
 ---
 
